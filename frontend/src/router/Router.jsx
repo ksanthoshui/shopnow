@@ -13,12 +13,15 @@ import Login from "../pages/Login.jsx";
 
 // navigation bar
 import Navbar from "../components/Navbar.jsx";
+import Fooder from "../components/Fooder.jsx";
+import SearchBar from "../components/SearchBar.jsx";
 
 function Router() {
   return (
     <>
       <BrowserRouter>
       <Navbar/>
+      <SearchBar/>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
@@ -30,6 +33,7 @@ function Router() {
           <Route path="/cart" element={<Cart />} />
           <Route path="/login" element={<Login />} />
         </Routes>
+        <Fooder/>
       </BrowserRouter>
     </>
   );

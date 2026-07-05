@@ -4,10 +4,20 @@
     "name": "Classic Cotton Crew Neck T-Shirt",
     "description": "A soft, breathable 100% cotton t-shirt with a classic crew neck fit. Perfect for everyday wear.",
     "price": 19.99,
-    "image": "https://picsum.photos/seed/prod1/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod1a/400/400",
+      "https://picsum.photos/seed/prod1b/400/400",
+      "https://picsum.photos/seed/prod1c/400/400",
+      "https://picsum.photos/seed/prod1d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Topwear",
-    "sizes": ["S", "M", "L", "XL"],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "date": "2025-01-12",
     "bestseller": true
   },
@@ -16,10 +26,20 @@
     "name": "Slim Fit Denim Jeans",
     "description": "Stretchable slim fit denim jeans with a modern silhouette, ideal for casual and semi-formal outings.",
     "price": 49.99,
-    "image": "https://picsum.photos/seed/prod2/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod2a/400/400",
+      "https://picsum.photos/seed/prod2b/400/400",
+      "https://picsum.photos/seed/prod2c/400/400",
+      "https://picsum.photos/seed/prod2d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Bottomwear",
-    "sizes": ["30", "32", "34", "36"],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
     "date": "2025-01-15",
     "bestseller": false
   },
@@ -28,10 +48,20 @@
     "name": "Floral Print Summer Dress",
     "description": "A lightweight floral print dress made from breathable fabric, perfect for warm summer days.",
     "price": 39.99,
-    "image": "https://picsum.photos/seed/prod3/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod3a/400/400",
+      "https://picsum.photos/seed/prod3b/400/400",
+      "https://picsum.photos/seed/prod3c/400/400",
+      "https://picsum.photos/seed/prod3d/400/400"
+    ],
     "category": "Women",
     "subcategory": "Dresses",
-    "sizes": ["XS", "S", "M", "L"],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
     "date": "2025-01-18",
     "bestseller": true
   },
@@ -40,10 +70,20 @@
     "name": "High Waist Skinny Jeans",
     "description": "Figure-flattering high waist skinny jeans with a comfortable stretch fabric blend.",
     "price": 44.99,
-    "image": "https://picsum.photos/seed/prod4/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod4a/400/400",
+      "https://picsum.photos/seed/prod4b/400/400",
+      "https://picsum.photos/seed/prod4c/400/400",
+      "https://picsum.photos/seed/prod4d/400/400"
+    ],
     "category": "Women",
     "subcategory": "Bottomwear",
-    "sizes": ["S", "M", "L", "XL"],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "date": "2025-01-20",
     "bestseller": false
   },
@@ -52,10 +92,20 @@
     "name": "Kids Graphic Print Hoodie",
     "description": "Warm and cozy fleece hoodie with a fun graphic print, designed for active kids.",
     "price": 29.99,
-    "image": "https://picsum.photos/seed/prod5/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod5a/400/400",
+      "https://picsum.photos/seed/prod5b/400/400",
+      "https://picsum.photos/seed/prod5c/400/400",
+      "https://picsum.photos/seed/prod5d/400/400"
+    ],
     "category": "Kids",
     "subcategory": "Topwear",
-    "sizes": ["4-5Y", "6-7Y", "8-9Y", "10-11Y"],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
     "date": "2025-01-22",
     "bestseller": false
   },
@@ -64,10 +114,21 @@
     "name": "Formal Button-Down Shirt",
     "description": "A crisp, tailored formal shirt made from premium cotton blend, suitable for office wear.",
     "price": 34.99,
-    "image": "https://picsum.photos/seed/prod6/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod6a/400/400",
+      "https://picsum.photos/seed/prod6b/400/400",
+      "https://picsum.photos/seed/prod6c/400/400",
+      "https://picsum.photos/seed/prod6d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Topwear",
-    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "date": "2025-01-25",
     "bestseller": true
   },
@@ -76,10 +137,21 @@
     "name": "Casual Cargo Shorts",
     "description": "Durable cargo shorts with multiple pockets, great for outdoor activities and casual wear.",
     "price": 27.99,
-    "image": "https://picsum.photos/seed/prod7/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod7a/400/400",
+      "https://picsum.photos/seed/prod7b/400/400",
+      "https://picsum.photos/seed/prod7c/400/400",
+      "https://picsum.photos/seed/prod7d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Bottomwear",
-    "sizes": ["30", "32", "34", "36", "38"],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
     "date": "2025-01-28",
     "bestseller": false
   },
@@ -88,10 +160,20 @@
     "name": "Chiffon Wrap Blouse",
     "description": "Elegant chiffon wrap blouse with three-quarter sleeves, perfect for work or evening wear.",
     "price": 32.99,
-    "image": "https://picsum.photos/seed/prod8/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod8a/400/400",
+      "https://picsum.photos/seed/prod8b/400/400",
+      "https://picsum.photos/seed/prod8c/400/400",
+      "https://picsum.photos/seed/prod8d/400/400"
+    ],
     "category": "Women",
     "subcategory": "Topwear",
-    "sizes": ["XS", "S", "M", "L"],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
     "date": "2025-02-01",
     "bestseller": false
   },
@@ -100,10 +182,19 @@
     "name": "Kids Denim Overalls",
     "description": "Adorable denim overalls with adjustable straps, built for comfort and durability.",
     "price": 31.99,
-    "image": "https://picsum.photos/seed/prod9/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod9a/400/400",
+      "https://picsum.photos/seed/prod9b/400/400",
+      "https://picsum.photos/seed/prod9c/400/400",
+      "https://picsum.photos/seed/prod9d/400/400"
+    ],
     "category": "Kids",
     "subcategory": "Bottomwear",
-    "sizes": ["2-3Y", "4-5Y", "6-7Y"],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y"
+    ],
     "date": "2025-02-03",
     "bestseller": true
   },
@@ -112,10 +203,20 @@
     "name": "Winter Puffer Jacket",
     "description": "Insulated puffer jacket designed to keep you warm in cold weather without adding bulk.",
     "price": 89.99,
-    "image": "https://picsum.photos/seed/prod10/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod10a/400/400",
+      "https://picsum.photos/seed/prod10b/400/400",
+      "https://picsum.photos/seed/prod10c/400/400",
+      "https://picsum.photos/seed/prod10d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Winterwear",
-    "sizes": ["M", "L", "XL", "XXL"],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "date": "2025-02-05",
     "bestseller": true
   },
@@ -124,22 +225,40 @@
     "name": "Wool Blend Overcoat",
     "description": "A sophisticated wool blend overcoat with a tailored fit, ideal for formal winter occasions.",
     "price": 129.99,
-    "image": "https://picsum.photos/seed/prod11/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod11a/400/400",
+      "https://picsum.photos/seed/prod11b/400/400",
+      "https://picsum.photos/seed/prod11c/400/400",
+      "https://picsum.photos/seed/prod11d/400/400"
+    ],
     "category": "Women",
     "subcategory": "Winterwear",
-    "sizes": ["S", "M", "L"],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "date": "2025-02-08",
-    "bestseller": true
+    "bestseller": false
   },
   {
     "_id": "6650a1b1f1a2c3d4e5f6000c",
     "name": "Kids Puffer Vest",
     "description": "Lightweight yet warm puffer vest for kids, easy to layer for chilly days.",
     "price": 24.99,
-    "image": "https://picsum.photos/seed/prod12/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod12a/400/400",
+      "https://picsum.photos/seed/prod12b/400/400",
+      "https://picsum.photos/seed/prod12c/400/400",
+      "https://picsum.photos/seed/prod12d/400/400"
+    ],
     "category": "Kids",
     "subcategory": "Winterwear",
-    "sizes": ["4-5Y", "6-7Y", "8-9Y"],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
     "date": "2025-02-10",
     "bestseller": false
   },
@@ -148,10 +267,20 @@
     "name": "Athletic Performance Tank Top",
     "description": "Moisture-wicking tank top designed for high-intensity workouts and training sessions.",
     "price": 22.99,
-    "image": "https://picsum.photos/seed/prod13/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod13a/400/400",
+      "https://picsum.photos/seed/prod13b/400/400",
+      "https://picsum.photos/seed/prod13c/400/400",
+      "https://picsum.photos/seed/prod13d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Activewear",
-    "sizes": ["S", "M", "L", "XL"],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "date": "2025-02-12",
     "bestseller": true
   },
@@ -160,10 +289,21 @@
     "name": "Yoga Leggings",
     "description": "High-stretch, squat-proof leggings with a comfortable elastic waistband for yoga and gym.",
     "price": 34.99,
-    "image": "https://picsum.photos/seed/prod14/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod14a/400/400",
+      "https://picsum.photos/seed/prod14b/400/400",
+      "https://picsum.photos/seed/prod14c/400/400",
+      "https://picsum.photos/seed/prod14d/400/400"
+    ],
     "category": "Women",
     "subcategory": "Activewear",
-    "sizes": ["XS", "S", "M", "L", "XL"],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "date": "2025-02-14",
     "bestseller": true
   },
@@ -172,10 +312,20 @@
     "name": "Kids Sports Tracksuit",
     "description": "Two-piece tracksuit set with breathable fabric, perfect for school sports and play.",
     "price": 37.99,
-    "image": "https://picsum.photos/seed/prod15/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod15a/400/400",
+      "https://picsum.photos/seed/prod15b/400/400",
+      "https://picsum.photos/seed/prod15c/400/400",
+      "https://picsum.photos/seed/prod15d/400/400"
+    ],
     "category": "Kids",
     "subcategory": "Activewear",
-    "sizes": ["6-7Y", "8-9Y", "10-11Y", "12-13Y"],
+    "sizes": [
+      "6-7Y",
+      "8-9Y",
+      "10-11Y",
+      "12-13Y"
+    ],
     "date": "2025-02-17",
     "bestseller": false
   },
@@ -184,10 +334,19 @@
     "name": "Leather Bomber Jacket",
     "description": "Genuine leather bomber jacket with ribbed cuffs and a timeless streetwear look.",
     "price": 149.99,
-    "image": "https://picsum.photos/seed/prod16/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod16a/400/400",
+      "https://picsum.photos/seed/prod16b/400/400",
+      "https://picsum.photos/seed/prod16c/400/400",
+      "https://picsum.photos/seed/prod16d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Outerwear",
-    "sizes": ["M", "L", "XL"],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
     "date": "2025-02-19",
     "bestseller": true
   },
@@ -196,10 +355,19 @@
     "name": "Denim Trucker Jacket",
     "description": "Classic denim trucker jacket with button closure, a versatile layering piece.",
     "price": 59.99,
-    "image": "https://picsum.photos/seed/prod17/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod17a/400/400",
+      "https://picsum.photos/seed/prod17b/400/400",
+      "https://picsum.photos/seed/prod17c/400/400",
+      "https://picsum.photos/seed/prod17d/400/400"
+    ],
     "category": "Women",
     "subcategory": "Outerwear",
-    "sizes": ["S", "M", "L"],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "date": "2025-02-21",
     "bestseller": false
   },
@@ -208,10 +376,19 @@
     "name": "Kids Rain Jacket",
     "description": "Waterproof rain jacket with a hood, keeping kids dry during rainy days.",
     "price": 26.99,
-    "image": "https://picsum.photos/seed/prod18/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod18a/400/400",
+      "https://picsum.photos/seed/prod18b/400/400",
+      "https://picsum.photos/seed/prod18c/400/400",
+      "https://picsum.photos/seed/prod18d/400/400"
+    ],
     "category": "Kids",
     "subcategory": "Outerwear",
-    "sizes": ["4-5Y", "6-7Y", "8-9Y"],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
     "date": "2025-02-23",
     "bestseller": false
   },
@@ -220,10 +397,20 @@
     "name": "Striped Polo Shirt",
     "description": "Breathable pique cotton polo shirt with classic stripe detailing and ribbed collar.",
     "price": 27.99,
-    "image": "https://picsum.photos/seed/prod19/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod19a/400/400",
+      "https://picsum.photos/seed/prod19b/400/400",
+      "https://picsum.photos/seed/prod19c/400/400",
+      "https://picsum.photos/seed/prod19d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Topwear",
-    "sizes": ["S", "M", "L", "XL"],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "date": "2025-02-25",
     "bestseller": false
   },
@@ -232,10 +419,20 @@
     "name": "Off-Shoulder Crop Top",
     "description": "Trendy off-shoulder crop top with a relaxed fit, great for casual summer styling.",
     "price": 21.99,
-    "image": "https://picsum.photos/seed/prod20/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod20a/400/400",
+      "https://picsum.photos/seed/prod20b/400/400",
+      "https://picsum.photos/seed/prod20c/400/400",
+      "https://picsum.photos/seed/prod20d/400/400"
+    ],
     "category": "Women",
     "subcategory": "Topwear",
-    "sizes": ["XS", "S", "M", "L"],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
     "date": "2025-02-27",
     "bestseller": true
   },
@@ -244,10 +441,20 @@
     "name": "Kids Cartoon Print T-Shirt",
     "description": "Fun and colorful cartoon print t-shirt made from soft, skin-friendly cotton.",
     "price": 14.99,
-    "image": "https://picsum.photos/seed/prod21/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod21a/400/400",
+      "https://picsum.photos/seed/prod21b/400/400",
+      "https://picsum.photos/seed/prod21c/400/400",
+      "https://picsum.photos/seed/prod21d/400/400"
+    ],
     "category": "Kids",
     "subcategory": "Topwear",
-    "sizes": ["2-3Y", "4-5Y", "6-7Y", "8-9Y"],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
     "date": "2025-03-01",
     "bestseller": true
   },
@@ -256,10 +463,20 @@
     "name": "Linen Blend Trousers",
     "description": "Breathable linen blend trousers with a relaxed fit, ideal for warm weather comfort.",
     "price": 42.99,
-    "image": "https://picsum.photos/seed/prod22/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod22a/400/400",
+      "https://picsum.photos/seed/prod22b/400/400",
+      "https://picsum.photos/seed/prod22c/400/400",
+      "https://picsum.photos/seed/prod22d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Bottomwear",
-    "sizes": ["30", "32", "34", "36"],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
     "date": "2025-03-03",
     "bestseller": false
   },
@@ -268,10 +485,20 @@
     "name": "Pleated Midi Skirt",
     "description": "Elegant pleated midi skirt with an elastic waistband, flattering for all body types.",
     "price": 36.99,
-    "image": "https://picsum.photos/seed/prod23/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod23a/400/400",
+      "https://picsum.photos/seed/prod23b/400/400",
+      "https://picsum.photos/seed/prod23c/400/400",
+      "https://picsum.photos/seed/prod23d/400/400"
+    ],
     "category": "Women",
     "subcategory": "Bottomwear",
-    "sizes": ["S", "M", "L", "XL"],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "date": "2025-03-05",
     "bestseller": false
   },
@@ -280,10 +507,20 @@
     "name": "Kids Denim Shorts",
     "description": "Comfortable denim shorts with an adjustable waistband, great for everyday play.",
     "price": 18.99,
-    "image": "https://picsum.photos/seed/prod24/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod24a/400/400",
+      "https://picsum.photos/seed/prod24b/400/400",
+      "https://picsum.photos/seed/prod24c/400/400",
+      "https://picsum.photos/seed/prod24d/400/400"
+    ],
     "category": "Kids",
     "subcategory": "Bottomwear",
-    "sizes": ["4-5Y", "6-7Y", "8-9Y", "10-11Y"],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
     "date": "2025-03-08",
     "bestseller": false
   },
@@ -292,10 +529,20 @@
     "name": "Merino Wool Sweater",
     "description": "Premium merino wool sweater offering natural warmth without the bulk.",
     "price": 69.99,
-    "image": "https://picsum.photos/seed/prod25/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod25a/400/400",
+      "https://picsum.photos/seed/prod25b/400/400",
+      "https://picsum.photos/seed/prod25c/400/400",
+      "https://picsum.photos/seed/prod25d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Winterwear",
-    "sizes": ["S", "M", "L", "XL"],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "date": "2025-03-10",
     "bestseller": true
   },
@@ -304,10 +551,19 @@
     "name": "Cable Knit Cardigan",
     "description": "Cozy cable knit cardigan with button front, a versatile layering essential.",
     "price": 54.99,
-    "image": "https://picsum.photos/seed/prod26/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod26a/400/400",
+      "https://picsum.photos/seed/prod26b/400/400",
+      "https://picsum.photos/seed/prod26c/400/400",
+      "https://picsum.photos/seed/prod26d/400/400"
+    ],
     "category": "Women",
     "subcategory": "Winterwear",
-    "sizes": ["S", "M", "L"],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "date": "2025-03-12",
     "bestseller": false
   },
@@ -316,10 +572,19 @@
     "name": "Kids Fleece Sweatshirt",
     "description": "Soft fleece-lined sweatshirt to keep children warm during colder months.",
     "price": 23.99,
-    "image": "https://picsum.photos/seed/prod27/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod27a/400/400",
+      "https://picsum.photos/seed/prod27b/400/400",
+      "https://picsum.photos/seed/prod27c/400/400",
+      "https://picsum.photos/seed/prod27d/400/400"
+    ],
     "category": "Kids",
     "subcategory": "Winterwear",
-    "sizes": ["2-3Y", "4-5Y", "6-7Y"],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y"
+    ],
     "date": "2025-03-14",
     "bestseller": false
   },
@@ -328,10 +593,20 @@
     "name": "Compression Running Shorts",
     "description": "Lightweight compression shorts with built-in liner, designed for running and training.",
     "price": 24.99,
-    "image": "https://picsum.photos/seed/prod28/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod28a/400/400",
+      "https://picsum.photos/seed/prod28b/400/400",
+      "https://picsum.photos/seed/prod28c/400/400",
+      "https://picsum.photos/seed/prod28d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Activewear",
-    "sizes": ["S", "M", "L", "XL"],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "date": "2025-03-16",
     "bestseller": false
   },
@@ -340,10 +615,20 @@
     "name": "Seamless Sports Bra",
     "description": "Medium-support seamless sports bra with breathable, stretch fabric.",
     "price": 26.99,
-    "image": "https://picsum.photos/seed/prod29/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod29a/400/400",
+      "https://picsum.photos/seed/prod29b/400/400",
+      "https://picsum.photos/seed/prod29c/400/400",
+      "https://picsum.photos/seed/prod29d/400/400"
+    ],
     "category": "Women",
     "subcategory": "Activewear",
-    "sizes": ["XS", "S", "M", "L"],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
     "date": "2025-03-18",
     "bestseller": true
   },
@@ -352,10 +637,20 @@
     "name": "Kids Swim Shorts",
     "description": "Quick-dry swim shorts with fun print, perfect for beach days and pool time.",
     "price": 16.99,
-    "image": "https://picsum.photos/seed/prod30/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod30a/400/400",
+      "https://picsum.photos/seed/prod30b/400/400",
+      "https://picsum.photos/seed/prod30c/400/400",
+      "https://picsum.photos/seed/prod30d/400/400"
+    ],
     "category": "Kids",
     "subcategory": "Activewear",
-    "sizes": ["4-5Y", "6-7Y", "8-9Y", "10-11Y"],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
     "date": "2025-03-20",
     "bestseller": false
   },
@@ -364,10 +659,19 @@
     "name": "Corduroy Blazer",
     "description": "Textured corduroy blazer with a modern slim fit, perfect for smart-casual looks.",
     "price": 79.99,
-    "image": "https://picsum.photos/seed/prod31/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod31a/400/400",
+      "https://picsum.photos/seed/prod31b/400/400",
+      "https://picsum.photos/seed/prod31c/400/400",
+      "https://picsum.photos/seed/prod31d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Outerwear",
-    "sizes": ["M", "L", "XL"],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
     "date": "2025-03-22",
     "bestseller": false
   },
@@ -376,10 +680,20 @@
     "name": "Faux Fur Trim Parka",
     "description": "Insulated parka with a faux fur trimmed hood, combining warmth and style.",
     "price": 119.99,
-    "image": "https://picsum.photos/seed/prod32/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod32a/400/400",
+      "https://picsum.photos/seed/prod32b/400/400",
+      "https://picsum.photos/seed/prod32c/400/400",
+      "https://picsum.photos/seed/prod32d/400/400"
+    ],
     "category": "Women",
     "subcategory": "Outerwear",
-    "sizes": ["S", "M", "L", "XL"],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "date": "2025-03-24",
     "bestseller": true
   },
@@ -388,10 +702,20 @@
     "name": "Kids Denim Jacket",
     "description": "Classic denim jacket for kids with front pockets and button closure.",
     "price": 29.99,
-    "image": "https://picsum.photos/seed/prod33/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod33a/400/400",
+      "https://picsum.photos/seed/prod33b/400/400",
+      "https://picsum.photos/seed/prod33c/400/400",
+      "https://picsum.photos/seed/prod33d/400/400"
+    ],
     "category": "Kids",
     "subcategory": "Outerwear",
-    "sizes": ["4-5Y", "6-7Y", "8-9Y", "10-11Y"],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
     "date": "2025-03-26",
     "bestseller": false
   },
@@ -400,10 +724,21 @@
     "name": "Henley Long Sleeve Shirt",
     "description": "Casual henley shirt with button placket and long sleeves, soft cotton jersey fabric.",
     "price": 25.99,
-    "image": "https://picsum.photos/seed/prod34/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod34a/400/400",
+      "https://picsum.photos/seed/prod34b/400/400",
+      "https://picsum.photos/seed/prod34c/400/400",
+      "https://picsum.photos/seed/prod34d/400/400"
+    ],
     "category": "Men",
     "subcategory": "Topwear",
-    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "date": "2025-03-28",
     "bestseller": false
   },
@@ -412,10 +747,20 @@
     "name": "Satin Camisole Top",
     "description": "Silky satin camisole with adjustable straps, a versatile layering or standalone piece.",
     "price": 19.99,
-    "image": "https://picsum.photos/seed/prod35/400/400",
+    "image": [
+      "https://picsum.photos/seed/prod35a/400/400",
+      "https://picsum.photos/seed/prod35b/400/400",
+      "https://picsum.photos/seed/prod35c/400/400",
+      "https://picsum.photos/seed/prod35d/400/400"
+    ],
     "category": "Women",
     "subcategory": "Topwear",
-    "sizes": ["XS", "S", "M", "L"],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
     "date": "2025-03-30",
     "bestseller": true
   }

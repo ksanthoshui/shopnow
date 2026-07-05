@@ -1,10 +1,11 @@
-import React, { useState } from "react";
+import React, { useContext, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { Search,House,User,ShoppingBag,Menu,MoveRight   } from 'lucide-react';
+import { Shopcontext } from "../context/Shopcontext";
 function Navbar() {
 
   const [visible,setvisible ]= useState(false)
-
+     const {setshowsearch} = useContext(Shopcontext)
   return (
     <>
       <div className="flex items-center justify-between py-5  font-medium">
@@ -34,7 +35,7 @@ function Navbar() {
           </NavLink>
         </ul>
         <div className="flex items-center gap-6" >
-            <Search  className=" w-5 cursor-pointer" />
+            <Search  className=" w-5 cursor-pointer" onClick={()=>{setshowsearch(true)}} />
 
             <div className="group relative">
                 <User className=" w-5 cursor-pointer" />
