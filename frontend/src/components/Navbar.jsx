@@ -5,7 +5,7 @@ import { Shopcontext } from "../context/Shopcontext";
 function Navbar() {
 
   const [visible,setvisible ]= useState(false)
-     const {setshowsearch} = useContext(Shopcontext)
+     const {setshowsearch,getcartcount} = useContext(Shopcontext)
   return (
     <>
       <div className="flex items-center justify-between py-5  font-medium">
@@ -50,7 +50,7 @@ function Navbar() {
             </div>
               <Link to='/cart' className="relative" >
                   <ShoppingBag  className=" w-5 cursor-pointer"/>
-                  <p className="absolute -right-1.25 -bottom-1.25 w-4 leading-4 text-center bg-black text-white aspect-square rounded-full text-[8px] " >10</p>
+                  <p className="absolute -right-1.25 -bottom-1.25 w-4 leading-4 text-center bg-black text-white aspect-square rounded-full text-[8px] " >{getcartcount()}</p>
               </Link>
               <Menu onClick={()=>{setvisible(true)}} className=" w-5 cursor-pointer sm:hidden"/>
         </div>

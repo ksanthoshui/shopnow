@@ -1,5 +1,6 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { ToastContainer, toast } from 'react-toastify';
 
 import Home from "../pages/Home.jsx";
 import About from "../pages/About.jsx";
@@ -20,6 +21,7 @@ function Router() {
   return (
     <>
       <BrowserRouter>
+      <ToastContainer/>
       <Navbar/>
       <SearchBar/>
         <Routes>

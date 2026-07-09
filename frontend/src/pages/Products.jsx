@@ -5,7 +5,7 @@ import { Star } from "lucide-react";
 import RelatedProduct from "../components/RelatedProduct";
 function Products() {
   const { productId } = useParams();
-  const { Products, currency } = useContext(Shopcontext);
+  const { Products, currency,  cartItems,addtocard } = useContext(Shopcontext);
   const [productdata, setproductdata] = useState(false);
   const [image, setimage] = useState("");
   const [size, setsize] = useState("");
@@ -79,7 +79,7 @@ function Products() {
                 ))}
               </div>
             </div>
-            <button className="bg-black text-white px-7 py-3 text-sm active:bg-gray-700 uppercase cursor-pointer ">
+            <button onClick={()=>{addtocard(productdata._id,size)}} className="bg-black text-white px-7 py-3 text-sm active:bg-gray-700 uppercase cursor-pointer ">
               add to card
             </button>
             <hr className="mt-8 sm:w-4/5 text-gray-300 " />
