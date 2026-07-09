@@ -2,11 +2,14 @@ import React, { useContext, useEffect, useState } from 'react'
 import { Shopcontext } from '../context/Shopcontext'
 import Title from '../components/Title';
 import { Trash2 } from 'lucide-react';
+import CartTotal from '../components/CartTotal';
+import { useNavigate } from 'react-router-dom';
 
 function Cart() {
   const {Products,currency,cartItems,updatequantity} = useContext(Shopcontext)
 
   const [cartdata,setcartdata] = useState([]);
+  const navigate = useNavigate();
 
   useEffect(()=>{
 
@@ -53,10 +56,20 @@ function Cart() {
                   <input onChange={(e)=>e.target.value === '' || e.target.value === '0'? null : updatequantity(item._id,item.size,Number(e.target.value))} type="number" className='border max-w-10 sm:max-w-20 px-1 sm:px-2 py-1' min={1} defaultValue={item.quantity}   />
                    <Trash2 onClick={()=>{updatequantity(item._id,item.size,0)}} className='w-4 mr-4 sm:w-5 cursor-pointer'  />
                 </div>
+
               )
             })
           }
         </div>
+          <div className='flex justify-end my-20'>
+            <div className='w-full sm:w-[450px]' >
+              <CartTotal/>
+              <div className='w-full text-end' >
+                <button className='bg-black text-white text-sm my-8 py-3 px-2 cursor-poi '
+                 onClick={()=>navigate('/place-Order')} >PROCEED TO CHECKOUT</button>
+              </div>
+            </div>
+          </div>
       </>
   )
 }
