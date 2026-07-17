@@ -63,11 +63,11 @@ function Collections() {
   
   useEffect(() => {
     setfilterproducts(Products);
-  }, []);
+  }, [Products]);
 
   useEffect(()=>{
     applyfilter()
-  },[categroy,subcategory,search] )
+  },[categroy,subcategory,search,Products] )
 
   useEffect(()=>{
     sortproduct();
