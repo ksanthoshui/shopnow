@@ -18,7 +18,7 @@ const loginuser = async (req, res) => {
     const ismatch = await bcrypt.compare(password, user.password);
     if (ismatch) {
       const token = createtoken(user._id);
-      return res.send({ message: true, token });
+      return res.send({ success: true, token });
     } else {
       return res.send({ success: false, message: "Invalid credentials" });
     }

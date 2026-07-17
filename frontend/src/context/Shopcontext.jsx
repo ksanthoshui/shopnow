@@ -9,7 +9,10 @@ const ShopcontextProvider = ({ children }) => {
   const [cartItems, setCartItems] = useState({});
   const [Products, setProducts] = useState([]);
   const backend_url = import.meta.env.VITE_BACKEND_URL;
+  const [token,setToken] =useState('')
 
+
+  
   const addtocard = async (itemId, size) => {
     if (!size) {
       toast.error("select product size");
@@ -80,6 +83,11 @@ const ShopcontextProvider = ({ children }) => {
     getProducts();
   }, []);
 
+  useEffect(()=>{
+    if(!token && localStorage.getItem('token')){
+      setToken(localStorage.getItem('token'))
+    }
+  },[])
 
 
   const currency = "$";
@@ -99,6 +107,8 @@ const ShopcontextProvider = ({ children }) => {
     updatequantity,
     getcarttotal,
     backend_url,
+    token,
+    setToken
   };
 
   return <Shopcontext.Provider value={value}>{children}</Shopcontext.Provider>;
