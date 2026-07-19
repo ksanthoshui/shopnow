@@ -50,7 +50,7 @@ function Navbar() {
             <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
           </NavLink>
           <a
-            href="http://localhost:5174/login"
+            href="https://shopnow-admin-orcin.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center gap-1 bg-amber-200 px-2 py-1 rounded-md text-black"
@@ -164,7 +164,7 @@ function Navbar() {
                 setvisible(false);
               }}
               className="py-2 pl-6 border uppercase"
-              to="http://localhost:5174/"
+              to="https://shopnow-admin-orcin.vercel.app"
             >
               admin
             </NavLink>
