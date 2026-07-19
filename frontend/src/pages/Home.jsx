@@ -8,6 +8,7 @@ import NewsletterBox from '../components/NewsletterBox'
 function Home() {
   return (
     <>
+      
       <Hero/>
       <LatestCollection/>
       <Bestseller/>
