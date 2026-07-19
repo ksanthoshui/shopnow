@@ -41,6 +41,7 @@ function Cart() {
           const productData = Products.find(
             (products) => products._id === item._id,
           );
+          if (!productData) return null;
           return (
             <div
               key={index}
@@ -93,7 +94,7 @@ function Cart() {
         })}
       </div>
       <div className="flex justify-end my-20">
-        <div className="w-full sm:w-[450px]">
+        <div className="w-full sm:w-112.5">
           <CartTotal />
           <div className="w-full text-end">
             <button
